@@ -1,1 +1,2 @@
-#WRITE YOUR CODE HERE
+wordSmash("blue", "Green")
+blueGreen
